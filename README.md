@@ -1,6 +1,6 @@
 # Phaser WebGL Render Test for Android
 
-This repository contains the web-based contents that are to be uploaded to Cocoon.io for compilation to an Android App using the Cocoon's Canvas+ feature.
+This repository contains the web-based contents that are to be uploaded to http://cocoon.io for compilation to an Android App using Cocoon's Canvas+ feature.
 
 ## Current Problem
 
